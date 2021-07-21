@@ -1,0 +1,6 @@
+.app {
+    padding: 10px;
+    width: fit-content;
+    border: 2px dotted indigo;
+    border-radius: 10px;
+}

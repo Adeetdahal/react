@@ -1,0 +1,47 @@
+.comment {
+    padding: 10px;
+    border-top: 2px solid blue;
+
+    width: 200px;
+    margin: 10px 0;
+}
+.avatar img {
+    padding: 8px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.button {
+    background-color: rgb(31, 31, 192);
+    color: white;
+    text-align: center;
+    height: 30px;
+    border-radius: 0px 10px;
+    padding-top: 7px;
+    cursor: pointer;
+}
+.add {
+    font-size: 20px;
+}
+.author {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.date {
+    font-size: small;
+    color: rgb(70, 67, 67);
+}
+.text {
+    border: 2px solid blue;
+    height: 30px;
+    padding: 9px 0 0 6px;
+    width: auto;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+.contents {
+    border-left: 2px dashed gray;
+    padding-left: 10px;
+    margin-left: 15px;
+}

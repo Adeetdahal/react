@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { HelloNormal as Hello123 } from './App';
-import './App.css';
-('./App');
+import App from './App';
+
 ReactDOM.render(
     <React.StrictMode>
-        <Hello123 />
+        <App />
     </React.StrictMode>,
     document.querySelector('#root')
 );
